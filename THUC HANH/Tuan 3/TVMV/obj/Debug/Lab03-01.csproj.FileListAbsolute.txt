@@ -1,0 +1,16 @@
+C:\TVMV\2280603646_TruongVuMinhVan\TVMV\bin\Debug\TVMV.exe.config
+C:\TVMV\2280603646_TruongVuMinhVan\TVMV\bin\Debug\TVMV.exe
+C:\TVMV\2280603646_TruongVuMinhVan\TVMV\bin\Debug\TVMV.pdb
+C:\TVMV\2280603646_TruongVuMinhVan\TVMV\bin\Debug\Interop.WMPLib.dll
+C:\TVMV\2280603646_TruongVuMinhVan\TVMV\bin\Debug\AxInterop.WMPLib.dll
+C:\TVMV\2280603646_TruongVuMinhVan\TVMV\obj\Debug\Lab03-01.csproj.AssemblyReference.cache
+C:\TVMV\2280603646_TruongVuMinhVan\TVMV\obj\Debug\Interop.WMPLib.dll
+C:\TVMV\2280603646_TruongVuMinhVan\TVMV\obj\Debug\AxInterop.WMPLib.dll
+C:\TVMV\2280603646_TruongVuMinhVan\TVMV\obj\Debug\Lab03-01.csproj.ResolveComReference.cache
+C:\TVMV\2280603646_TruongVuMinhVan\TVMV\obj\Debug\TVMV.Form1.resources
+C:\TVMV\2280603646_TruongVuMinhVan\TVMV\obj\Debug\TVMV.Form2.resources
+C:\TVMV\2280603646_TruongVuMinhVan\TVMV\obj\Debug\TVMV.Properties.Resources.resources
+C:\TVMV\2280603646_TruongVuMinhVan\TVMV\obj\Debug\Lab03-01.csproj.GenerateResource.cache
+C:\TVMV\2280603646_TruongVuMinhVan\TVMV\obj\Debug\Lab03-01.csproj.CoreCompileInputs.cache
+C:\TVMV\2280603646_TruongVuMinhVan\TVMV\obj\Debug\TVMV.exe
+C:\TVMV\2280603646_TruongVuMinhVan\TVMV\obj\Debug\TVMV.pdb
