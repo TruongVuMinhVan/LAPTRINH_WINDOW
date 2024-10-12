@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\3646_TruongVuMinhVan\Lab04-01\bin\Debug\Lab04-01.exe.config
+C:\Users\Administrator\source\repos\3646_TruongVuMinhVan\Lab04-01\bin\Debug\Lab04-01.exe
+C:\Users\Administrator\source\repos\3646_TruongVuMinhVan\Lab04-01\bin\Debug\Lab04-01.pdb
+C:\Users\Administrator\source\repos\3646_TruongVuMinhVan\Lab04-01\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\3646_TruongVuMinhVan\Lab04-01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\3646_TruongVuMinhVan\Lab04-01\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\3646_TruongVuMinhVan\Lab04-01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\3646_TruongVuMinhVan\Lab04-01\obj\Debug\Lab04-01.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\3646_TruongVuMinhVan\Lab04-01\obj\Debug\Lab04_01.Frm.resources
+C:\Users\Administrator\source\repos\3646_TruongVuMinhVan\Lab04-01\obj\Debug\Lab04_01.Properties.Resources.resources
+C:\Users\Administrator\source\repos\3646_TruongVuMinhVan\Lab04-01\obj\Debug\Lab04-01.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\3646_TruongVuMinhVan\Lab04-01\obj\Debug\Lab04-01.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\3646_TruongVuMinhVan\Lab04-01\obj\Debug\Lab04-01.csproj.Up2Date
+C:\Users\Administrator\source\repos\3646_TruongVuMinhVan\Lab04-01\obj\Debug\Lab04-01.exe
+C:\Users\Administrator\source\repos\3646_TruongVuMinhVan\Lab04-01\obj\Debug\Lab04-01.pdb
+C:\Users\Administrator\source\repos\3646_TruongVuMinhVan\Lab04-01\obj\Debug\Lab04_01.Frm2.resources
