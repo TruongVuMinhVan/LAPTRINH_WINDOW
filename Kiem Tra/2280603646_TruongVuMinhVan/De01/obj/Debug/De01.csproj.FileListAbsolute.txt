@@ -1,0 +1,15 @@
+D:\STUDY\LT_WINDOW\Kiem Tra\2280603646_TruongVuMinhVan\De01\bin\Debug\De01.exe.config
+D:\STUDY\LT_WINDOW\Kiem Tra\2280603646_TruongVuMinhVan\De01\bin\Debug\De01.exe
+D:\STUDY\LT_WINDOW\Kiem Tra\2280603646_TruongVuMinhVan\De01\bin\Debug\De01.pdb
+D:\STUDY\LT_WINDOW\Kiem Tra\2280603646_TruongVuMinhVan\De01\obj\Debug\De01.csproj.AssemblyReference.cache
+D:\STUDY\LT_WINDOW\Kiem Tra\2280603646_TruongVuMinhVan\De01\obj\Debug\De01.Properties.Resources.resources
+D:\STUDY\LT_WINDOW\Kiem Tra\2280603646_TruongVuMinhVan\De01\obj\Debug\De01.csproj.GenerateResource.cache
+D:\STUDY\LT_WINDOW\Kiem Tra\2280603646_TruongVuMinhVan\De01\obj\Debug\De01.csproj.CoreCompileInputs.cache
+D:\STUDY\LT_WINDOW\Kiem Tra\2280603646_TruongVuMinhVan\De01\obj\Debug\De01.exe
+D:\STUDY\LT_WINDOW\Kiem Tra\2280603646_TruongVuMinhVan\De01\obj\Debug\De01.pdb
+D:\STUDY\LT_WINDOW\Kiem Tra\2280603646_TruongVuMinhVan\De01\bin\Debug\EntityFramework.dll
+D:\STUDY\LT_WINDOW\Kiem Tra\2280603646_TruongVuMinhVan\De01\bin\Debug\EntityFramework.SqlServer.dll
+D:\STUDY\LT_WINDOW\Kiem Tra\2280603646_TruongVuMinhVan\De01\bin\Debug\EntityFramework.xml
+D:\STUDY\LT_WINDOW\Kiem Tra\2280603646_TruongVuMinhVan\De01\bin\Debug\EntityFramework.SqlServer.xml
+D:\STUDY\LT_WINDOW\Kiem Tra\2280603646_TruongVuMinhVan\De01\obj\Debug\De01.Frm.resources
+D:\STUDY\LT_WINDOW\Kiem Tra\2280603646_TruongVuMinhVan\De01\obj\Debug\De01.csproj.Up2Date
